@@ -33,3 +33,12 @@ src/
 ├── App.jsx
 ├── index.css
 └── main.jsx
+```
+
+## Screenshot
+
+![DevPath Dashboard](./public/screenshots/devpath-dashboard.png)
+
+## Live Demo
+
+[Open DevPath](https://zafermert-devpath.netlify.app)
