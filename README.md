@@ -141,3 +141,11 @@ The project demonstrates:
 Computer Engineering Student
 
 [GitHub Profile](https://github.com/ZaferMert)
+
+## Development Process
+
+This project was developed with extensive assistance from AI coding tools, which generated a substantial portion of the implementation.
+
+My primary responsibilities included defining project requirements, guiding the development process, reviewing the application's behavior, and performing functional testing.
+
+The project serves as a practical learning experience in software development, system design, and AI-assisted development workflows.
